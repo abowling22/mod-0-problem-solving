@@ -1,7 +1,7 @@
 //1. Given an array of strings, return only the words that begin with the letter "t".
 
 
-var activities = ["trapeze", "surfing", "trampoline", "cooking"];
+var activities = ["type", "smell", "terrorize", "cry"];
 
 for (var i = 0; i < activities.length; i++) {
     var activity = activities[i];

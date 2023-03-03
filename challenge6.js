@@ -17,3 +17,4 @@ words.join(" ")
 
 console.log(words.toString())
 
+// this was the best i could get cant figure out a way to delete the commas
